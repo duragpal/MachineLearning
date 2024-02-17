@@ -1,0 +1,9 @@
+1) Data Collection
+2) Exploratory Data Analysis
+3) Feature Engineering
+4) Model Training ---Ridge
+5) Web App --- Flask
+6) Deployment (AWS cloud)
+
+Scaler.pkl--> Standardization = Feature Scaling
+Ridge.pkl--> Data Prediction = Model
